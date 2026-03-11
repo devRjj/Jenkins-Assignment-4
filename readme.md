@@ -3,6 +3,7 @@
 
 1. Upload file to S3
 2. Download it back to the intance and then deploy the application.
+3. The github repo being used: https://github.com/devRjj/jenkins-demo2.git
 
 Steps are as follows:
 1. Created an IAM role with S3FullAccess.
