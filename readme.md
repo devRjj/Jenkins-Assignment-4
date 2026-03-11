@@ -1,8 +1,10 @@
+<img width="1239" height="889" alt="Screenshot 2026-03-12 at 00 06 37" src="https://github.com/user-attachments/assets/18365f35-e928-42ea-9c66-fa564a7c64f4" />
 **Website hosting using Jenkins**
 
 1. Upload file to S3
 2. Download it back to the intance and then deploy the application.
 
+Steps are as follows:
 1. Created an IAM role with S3FullAccess.
 2. Attached it to our EC2 instance.
 3. Running the jenkins.
